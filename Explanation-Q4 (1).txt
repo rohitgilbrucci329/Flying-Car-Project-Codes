@@ -1,0 +1,6 @@
+Explanation:
+
+From the graphs shown, the blue line corresponds to 5Y-2X=0, looking at its slope and positive inclination 
+made with the X axis, we can easily conclude that the line 5Y-2X=C where C corresponds to the value for max profit
+will pass through (100,170). 
+Hence, max profit in the case of X=100 and Y=170 
