@@ -5,4 +5,4 @@ These are the codes that I wrote for the Flying Car Project that I did.
 
 -The second part was to interpolate the values of weight of the battery and to estimate the total weight using Newton Rhapson Method.
 
--
+-The third part was to calculate the forces and moment experienced by the wing of the flying car.
